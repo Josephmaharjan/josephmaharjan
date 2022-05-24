@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Joseph Maharjan</h1>
-<h3 align="center">Just started programming...</h3>
+<h1 align="center">Hello, World!</h1>
+<h3 align="center">Learning few programming languages...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josephmaharjan&label=Profile%20views&color=0e75b6&style=flat" alt="josephmaharjan" /> </p>
 
