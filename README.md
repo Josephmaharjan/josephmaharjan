@@ -1,8 +1,6 @@
 <h1 align="center">Hi👋, I'm <a href="https://josephmaharjan.github.io/links/">Joseph Maharjan</a></h1>
 <h3 align="center">Learning few programming languages...</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=josephmaharjan&label=Profile%20views&color=0e75b6&style=flat" alt="josephmaharjan" /> </p>
-
 - 📫 How to reach me **josephmaharjan76@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
